@@ -29,7 +29,7 @@ print()
 print(türkiyeŞehirleri[2])  
 print(türkiyeŞehirleri[-1])  # Son elemanı verir    
 
-
+print()
 print()
 print()
 print()
